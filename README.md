@@ -196,12 +196,3 @@ streamlit run app.py
 * Support multiple LLM providers
 
 ---
-
-## 👨‍💻 Author
-
-**Aryan Swain**
-
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
-
----
