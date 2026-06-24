@@ -1,10 +1,6 @@
 langchain
 langchain-core
 langchain-community
-langchain-google-genai
-langchain-groq
 langchain-mistralai
 python-dotenv
 pydantic
-ipykernel
-jupyter
